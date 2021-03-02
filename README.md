@@ -1,2 +1,4 @@
-# PlayerVault
-A Minecraft playervault plugin
+# Minecraft PlayerVault plugin
+Made this plugin by myself with some help from YouTube,
+
+Jonaqhan
