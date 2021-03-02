@@ -1,0 +1,9 @@
+name: PlayerVault
+version: 1.0
+author: Jonaqhan
+main: me.jonaqhan.playervault.Main
+description: With this plugin is it possible to use playervaults
+
+commands:
+  pv:
+   description: open a playervault
